@@ -1,9 +1,13 @@
 # Glenn C. Lasher, Jr.
 
-235 Clayton Rd.  
-Schenectady, NY 12304-3817  
-518-229-1182  
-resume@kc2idf.com  
+**235 Clayton Rd.**  
+**Schenectady, NY 12304-3817**  
+**518-229-1182**  
+**resume@kc2idf.com**  
+
+[LinkedIn Profile](https://www.linkedin.com/in/glennlasher)  
+[Github Profile](https://github.com/GlennLasher)  
+[Download a PDF of this r&eacute;sume](resume.pdf)
 
 # Summary
 
@@ -17,11 +21,15 @@ Over 20 years of IT experience in System Administration and DevOps Engineering. 
 
 # Technical expertise
 
-**Operating Systems:** Linux (Red Hat Enterprise Linux (RHEL), CentOS, Ubuntu Server, Ubuntu desktop, Slackware, NetRunner, LinuxMint, Raspbian), Solaris, OneFS, Data OnTap  
-**Hardware:** Commodity PC  
-**Software:** KVM, VirtualBox, JBoss, Tomcat, WebLogic, Apache, nginx, PostgreSQL, Raidcom, SymCLI, Netapp WFA, Veritas Clustering, LVM, MDAdm, MKS, Git  
-**Programming Languages:** Bash, Perl, Python, C, LISP  
-**Other:**  Amazon Web Services (EC2, VPC, S3, RDS), Microsoft HPC cluster, EMC and Hitachi SAN frames, EMC/Isilon and Netapp (7-Mode and cDOT) NAS  
+**Operating Systems:** Linux (Red Hat Enterprise Linux (RHEL), CentOS, Ubuntu Server, Ubuntu desktop, Slackware, NetRunner, LinuxMint, Raspbian), Solaris, OneFS, Data OnTap
+
+**Hardware:** Commodity PC
+
+**Software:** KVM, VirtualBox, JBoss, Tomcat, WebLogic, Apache, nginx, PostgreSQL, Raidcom, SymCLI, Netapp WFA, Veritas Clustering, LVM, MDAdm, MKS, Git
+
+**Programming Languages:** Bash, Perl, Python, C, LISP
+
+**Other:**  Amazon Web Services (EC2, VPC, S3, RDS), Microsoft HPC cluster, EMC and Hitachi SAN frames, EMC/Isilon and Netapp (7-Mode and cDOT) NAS
 
 # Professional Experience
 
