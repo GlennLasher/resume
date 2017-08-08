@@ -1,0 +1,6 @@
+body {
+    font-family: 'EB Garamond';
+    src: url('ttf/EBGaramond12-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
