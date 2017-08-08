@@ -1,7 +1,7 @@
-all : index.html
+all : resume.html
 
-index.html : README.html header.html footer.html
-	cat header.html README.html footer.html > index.html
+resume.html : header.html README.html footer.html
+	cat $^ > $@
 
 README.html : README.md
 	markdown README.md > README.html
