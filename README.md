@@ -23,8 +23,6 @@ Over 20 years of IT experience in System Administration and DevOps Engineering. 
 
 **Operating Systems:** Linux (Red Hat Enterprise Linux (RHEL), CentOS, Ubuntu Server, Ubuntu desktop, Slackware, NetRunner, LinuxMint, Raspbian), Solaris, OneFS, Data OnTap
 
-**Hardware:** Commodity PC
-
 **Software:** KVM, VirtualBox, JBoss, Tomcat, WebLogic, Apache, nginx, PostgreSQL, Raidcom, SymCLI, Netapp WFA, Veritas Clustering, LVM, MDAdm, MKS, Git
 
 **Programming Languages:** Bash, Perl, Python, C, LISP
