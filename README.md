@@ -31,7 +31,14 @@ Over 20 years of IT experience in System Administration and DevOps Engineering. 
 
 # Professional Experience
 
-## Logic Technology Inc. - July 2016-Current
+## Integratouch, Inc. - October 2017 - Current
+### Release Management Engineer (on contract to SiriusXM)
+
+ * Deploy in-house applications to multiple TIBCO Businessworks environments running on RedHat Linux.
+ * Troubleshoot issues as they arise. Liaise with Development and Project Management teams as needed.
+ * Develop processes and documentation to improve quality and consistency of deployments.
+ 
+## Logic Technology Inc. - July 2016-September 2017
 ### Infrastructure Support Consultant (on contract to General Electric)
 
  * Plan and perform allocation and de-allocation of disk on SAN frames and NAS clusters, including growth, shrinkage, and creation or removal of filesystems on the associated servers 
