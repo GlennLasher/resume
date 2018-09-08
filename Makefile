@@ -11,4 +11,4 @@ README.html : README.md
 	markdown README.md > README.html
 
 clean :
-	rm README.html index.html *~
+	rm -f README.html index.html *~
