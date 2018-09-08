@@ -35,41 +35,46 @@ Over 20 years of IT experience in System Administration and DevOps Engineering. 
 ### Release Management Engineer (on contract to SiriusXM)
 
  * Deploy in-house applications to multiple TIBCO Businessworks environments running on RedHat Linux.
- * Troubleshoot issues as they arise. Liaise with Development and Project Management teams as needed.
+ * Troubleshoot issues as they arise.
+ * Liaise with Development and Project Management teams as needed.
  * Develop processes and documentation to improve quality and consistency of deployments.
+ * 100% Telecommuting, 20% on-call.
  
 ## Logic Technology Inc. - July 2016-September 2017
 ### Infrastructure Support Consultant (on contract to General Electric)
 
- * Plan and perform allocation and de-allocation of disk on SAN frames and NAS clusters, including growth, shrinkage, and creation or removal of filesystems on the associated servers 
- * Guide the customer through the design process for new storage requests
- * Analyze and remediate performance and reliability concerns with data storage systems
- * Act as liaison to storage vendors to schedule and coordinate hardware repair and maintenance tasks
- * Document technical procedures for repeatability and training
- * Perform exhaustive monthly backup audit to ensure all data is properly protected
- * Train, mentor and advise other team members as needed
+ * Plan and perform allocation and de-allocation of disk on SAN frames and NAS clusters, including growth, shrinkage, and creation or removal of filesystems on the associated servers .
+ * Guide the customer through the design process for new storage requests.
+ * Analyze and remediate performance and reliability concerns with data storage systems.
+ * Act as liaison to storage vendors to schedule and coordinate hardware repair and maintenance tasks.
+ * Document technical procedures for repeatability and training.
+ * Perform exhaustive monthly backup audit to ensure all data is properly protected.
+ * Train, mentor and advise other team members as needed.
+ * 20% Telecommuting.
 
-## New York Independent System Operator - May 2000-June 2016
-### Platform System Administrator (2008-2016)
+## New York Independent System Operator - Nov 2007-June 2016
+### Platform System Administrator
 
  * Deployed and administered JBoss applications on over 900 JBoss servers.
  * Maintained NYISO Public Key Infrastructure (PKI) and internal Certificate Authority (CA).
  * Wrote NYISO’s standard style guide for Perl programs.
- * Designed, proved and implemented new standards for deployment of Apache servers within the organization
- * Participated in design and deployment of updated NYISO website
- * Performed triage and mitigation of Shell Shock and Heartbleed vulnerabilities 
- * Wrote scripting to start, stop and restart complex and problematic COTS applications, including status monitoring and automatically-forced stops as needed
- * Responded to security incidents
- * Administered multiple messaging technologies (Software AG WebMethods, TIBCO Rendezvous, JMS) including building infrastructure for interoperability between technologies
+ * Designed, proved and implemented new standards for deployment of Apache servers within the organization.
+ * Participated in design and deployment of updated NYISO website.
+ * Performed triage and mitigation of Shell Shock and Heartbleed vulnerabilities.
+ * Wrote scripting to start, stop and restart complex and problematic COTS applications, including status monitoring and automatically-forced stops as needed.
+ * Responded to security incidents.
+ * Administered multiple messaging technologies (Software AG WebMethods, TIBCO Rendezvous, JMS) including building infrastructure for interoperability between technologies.
  * Gathered requirements for moving a department off of legacy shadow-IT reporting system and onto newer, enterprise-grade, standardized technologies.
- * Performed software deployment to High Performance Compute (HPC) cluster as needed
+ * Performed software deployment to High Performance Compute (HPC) cluster as needed.
+ * 50% On-call.
+ 
+## New York Independent System Operator - May 2000-Oct 2007
+### System Analyst
 
-### System Analyst (2000-2007)
-
- * Created scheduling system to improve uptime of a critical, but delicate SAS application (scheduler written in Perl)
- * Developed PostgreSQL schemas and Perl applications to generate market reports for the Market Analysts
- * Process automation using both Control-M and scripted solutions
- * Created load pocket monitoring system believed impossible, enabling a short-term remedy for the 2003 blackout
+ * Created scheduling system to improve uptime of a critical, but delicate SAS application (scheduler written in Perl).
+ * Developed PostgreSQL schemas and Perl applications to generate market reports for the Market Analysts.
+ * Process automation using both Control-M and scripted solutions.
+ * Created load pocket monitoring system believed impossible, enabling a short-term remedy for the 2003 blackout.
 
 ## MySudo, Inc - August 2012-May 2014
 ### DevOps Engineer (concurrent with NYISO)
@@ -84,6 +89,7 @@ Over 20 years of IT experience in System Administration and DevOps Engineering. 
  * Set up VPN for access to corporate servers from remote locations
  * Actively participated in architectural design
  * Established procedures for rapid deployment of messaging servers (using Rabbit MQ)
+ * 100% Telecommuting
 
 ## Data Tech Associates, Ltd. - August 1998-May 2000
 ### Senior Engineer
@@ -113,6 +119,6 @@ Over 20 years of IT experience in System Administration and DevOps Engineering. 
 
 # Other Affiliations/Accomplishments
 
- * In Toastmasters International, served as Sergeant At Arms, Secretary and President.  Achieved Advanced Communicator Bronze and Competent Leader designations.  Earned first or second place in various speaking competitions
- * General class Amateur Radio Operator
- * Some fluency in French
+ * In Toastmasters International, served as Sergeant At Arms, Secretary and President.  Achieved Advanced Communicator Bronze and Competent Leader designations.  Earned first or second place in various speaking competitions.
+ * General class Amateur Radio Operator.
+ * Some fluency in French.
