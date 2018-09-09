@@ -8,7 +8,7 @@
 
 # Summary
 
-Over 20 years of IT experience in System Administration and DevOps Engineering.  Passionate about learning new technologies. Friendly, hard working team player, looking for a team that values experience and collaboration.
+Experienced, skilled System Administrator and DevOps Engineer.  Passionate about learning new technologies. Friendly, hard working team player, looking for a team that values experience and collaboration.
 
 # Qualification Highlights
 
@@ -111,11 +111,10 @@ Over 20 years of IT experience in System Administration and DevOps Engineering. 
 
 # Education/Certifications
 ## College/University
- * SUNY Brockport, BS in Computer Science, 1994
- * SUNY Alfred, AS in Computer Science, 1991
+ * SUNY Brockport, BS in Computer Science
+ * SUNY Alfred, AS in Computer Science
 
 # Other Affiliations/Accomplishments
 
  * In Toastmasters International, served as Sergeant At Arms, Secretary and President.  Achieved Advanced Communicator Bronze and Competent Leader designations.  Earned first or second place in various speaking competitions.
  * General class Amateur Radio Operator.
- * Some fluency in French.
