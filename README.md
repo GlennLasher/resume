@@ -1,8 +1,5 @@
 # Glenn C. Lasher, Jr.
 
-**235 Clayton Rd.**  
-**Schenectady, NY 12304-3817**  
-**518-229-1182**  
 **resume@kc2idf.com**  
 
 [LinkedIn Profile](https://www.linkedin.com/in/glennlasher)  
