@@ -12,7 +12,7 @@ Experienced, skilled System Administrator and DevOps Engineer.  Passionate about
 
 # Qualification Highlights
 
- * Skilled System Administrator, experienced with Linux, JBoss, WebLogic, Tomcat, Apache, nginx, PostgreSQL, NetApp, Isilon, Hitachi storage systems and EMC storage systems. 
+ * Skilled System Administrator, experienced with Linux, JBoss, WebLogic, Tomcat, Apache, nginx, PostgreSQL, NetApp, Isilon, Hitachi and Dell/EMC SAN storage. 
  * Excellent verbal and written communication skills 
  * Scientific approach to problem solving
 
@@ -20,18 +20,26 @@ Experienced, skilled System Administrator and DevOps Engineer.  Passionate about
 
 **Operating Systems:** Linux (Red Hat Enterprise Linux (RHEL), CentOS, Ubuntu Server, Ubuntu desktop, Slackware, NetRunner, LinuxMint, Raspbian), Solaris, OneFS, Data OnTap
 
-**Software:** KVM, VirtualBox, JBoss, Tomcat, WebLogic, Apache, nginx, PostgreSQL, Raidcom, SymCLI, Netapp WFA, Veritas Clustering, LVM, MDAdm, MKS, Git
+**Software:** KVM, VirtualBox, VMWare, JBoss, Tomcat, WebLogic, Apache, nginx, PostgreSQL, Raidcom, SymCLI, Netapp WFA, Veritas Clustering, LVM, MDAdm, MKS, Git, SVN, Docker, Puppet, Cobbler, OpenLDAP, RStudio
 
 **Programming Languages:** Bash, Perl, Python, C, LISP
 
-**Other:**  Amazon Web Services (EC2, VPC, S3, RDS), Microsoft HPC cluster, EMC and Hitachi SAN frames, EMC/Isilon and Netapp (7-Mode and cDOT) NAS
+**Other:**  Amazon Web Services (EC2, VPC, S3, RDS), Microsoft HPC cluster, Dell/EMC Isilon; Hitachi SAN frames; Netapp (7-Mode and cDOT) NAS, HPE Server hardware
 
 # Professional Experience
 
-## Integratouch, Inc. - October 2017 - Current
+## Excelsior College - October 2018 - Current
+### UNIX Engineer
+
+ * Worked to bring two orphaned applications up to date and under regular maintenance
+ * Commissioned new hardware with firmware patches and initial OS installations and software loads
+ * Participated in planning and design of a customer-facing chatbot
+ * 100% on-call.
+
+## Integratouch, Inc. - October 2017 - October 2018
 ### Release Management Engineer (on contract to SiriusXM)
 
- * Deploy in-house applications to multiple TIBCO Businessworks environments running on RedHat Linux.
+ * Deploy in-house applications to multiple environments running on RedHat Linux.
  * Troubleshoot issues as they arise.
  * Liaise with Development and Project Management teams as needed.
  * Develop processes and documentation to improve quality and consistency of deployments.
@@ -60,7 +68,9 @@ Experienced, skilled System Administrator and DevOps Engineer.  Passionate about
  * Performed triage and mitigation of Shell Shock and Heartbleed vulnerabilities.
  * Wrote scripting to start, stop and restart complex and problematic COTS applications, including status monitoring and automatically-forced stops as needed.
  * Responded to security incidents.
- * Administered multiple messaging technologies (Software AG WebMethods, TIBCO Rendezvous, JMS) including building infrastructure for interoperability between technologies.
+ * Administered multiple messaging technologies.
+ * Built infrastructure for interoperability between messaging technologies.
+ * Worked with networking team to debug UDP multicast issues for messaging.
  * Gathered requirements for moving a department off of legacy shadow-IT reporting system and onto newer, enterprise-grade, standardized technologies.
  * Performed software deployment to High Performance Compute (HPC) cluster as needed.
  * 50% On-call.
@@ -118,3 +128,4 @@ Experienced, skilled System Administrator and DevOps Engineer.  Passionate about
 
  * In Toastmasters International, served as Sergeant At Arms, Secretary and President.  Achieved Advanced Communicator Bronze and Competent Leader designations.  Earned first or second place in various speaking competitions.
  * General class Amateur Radio Operator.
+ * Some fluency in French.
